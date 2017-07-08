@@ -1,0 +1,6 @@
+package-lock.json
+node_modules/
+platforms/android/
+plugins/cordova-plugin-compat/
+plugins/cordova-plugin-whitelist/
+plugins/cordova-plugin-crosswalk-webview/
